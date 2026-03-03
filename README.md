@@ -1,3 +1,3 @@
 # Meu-primeiro-repo
 
-Fazendo alteraçaõ remota
+Fazendo alteração remota
